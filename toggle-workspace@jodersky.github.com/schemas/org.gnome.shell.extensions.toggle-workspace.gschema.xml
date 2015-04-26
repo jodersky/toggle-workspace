@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schemalist>
+	<schema path="/org/gnome/shell/extensions/toggle-workspace/" id="org.gnome.shell.extensions.toggle-workspace" >
+		<key type="as" name="toggle-primary-workspace">
+			<default><![CDATA[['<Alt>grave']]]></default>
+			<summary>Toggle between primary and current workspace.</summary>
+		</key>
+	</schema>
+</schemalist>
