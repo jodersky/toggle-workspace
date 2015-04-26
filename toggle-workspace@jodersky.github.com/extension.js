@@ -1,5 +1,3 @@
-
-const St = imports.gi.St;
 const Main = imports.ui.main;
 const Meta = imports.gi.Meta;
 const Shell = imports.gi.Shell;
